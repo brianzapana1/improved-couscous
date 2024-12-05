@@ -1,0 +1,12 @@
+/* Estilos globales del módulo compartido */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+  }
+  
+  .navbar,
+  .footer {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  
